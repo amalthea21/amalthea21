@@ -1,7 +1,3 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amalthea21&theme=dark)
-
-<br><br>
-
 ## 🛠️ Languages
 
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
